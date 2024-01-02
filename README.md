@@ -36,7 +36,7 @@ The introduction of Node.js in 2009 expanded JavaScript's domain beyond the brow
 Frameworks like Angular, React, and Vue.js gained prominence, providing powerful tools for building scalable and maintainable web applications. Node Package Manager (npm) became a central hub for JavaScript libraries and tools.
 
 **ECMAScript 2021:** 
-As of my last knowledge update in January 2022, ECMAScript 2021 is the latest standard, showcasing the ongoing commitment to enhancing JavaScript with new features and improvements.
+As of my last knowledge ECMAScript 2021 is the latest standard, showcasing the ongoing commitment to enhancing JavaScript with new features and improvements.
 
 JavaScript's journey from a simple scripting language to a versatile and powerful tool has been remarkable. Its ubiquity on the web and its expanding role in various domains, including server-side development, demonstrate its enduring significance in the world of programming.
 
