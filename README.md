@@ -1,4 +1,4 @@
-#Basic JS Concepts
+# Basic JS Concepts
 
 
 **JavaScript, often abbreviated as JS, is a high-level, dynamic, and interpreted programming language. It is primarily known for its role in web development, where it is widely used to enhance the functionality and interactivity of websites.**
