@@ -12,3 +12,4 @@ else if(n1<n3 && n2<n3){
 else{
     console.log("n2 is greater");
 }
+console.log("bye");
