@@ -1,6 +1,6 @@
 let n1=4
 let n2=5
-let n3=9
+let n3=8
 
 if(n1>n2){
     console.log("n1 is greater");
