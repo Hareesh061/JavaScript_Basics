@@ -1,3 +1,5 @@
+//A JavaScript method is a property of an object that contains a function definition
+
 let compeny = {
     name: 'hari',
     tech: 'development',
