@@ -81,7 +81,7 @@ switch(x){
 
 
 
-// looping-> for, for/in, for/of, while, do-while ,    jump statements: ->  break and continue;
+// 6. looping-> for, for/in, for/of, while, do-while ,    jump statements: ->  break and continue;
 
 /*
 for(var a=0;a<5;a++){
@@ -104,4 +104,10 @@ do{
 }while(conditions)
 
 */
+
+
+
+
+//7. functions and data types-> functions, string , array, object, type convertions
+
 
